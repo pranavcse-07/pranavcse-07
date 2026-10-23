@@ -1,12 +1,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4338ca&height=180&section=header&text=Pranav%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20MERN%20Stack%20%7C%20DSA&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4338ca&height=180&section=header&text=Pranav%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20MERN%20Stack%20%7C%20DSA&descAlignY=58&descSize=16" width="100%" alt="Profile Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;MERN+Stack+Development+Intern;Building+Responsive+Web+Applications;Learning+Data+Structures+%26+Algorithms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;MERN+Stack+Development+Intern;Building+Responsive+Web+Applications;Learning+Data+Structures+%26+Algorithms" alt="Typing SVG"/>
 
 <p>
-  <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="B.Tech CSE"/>
+  <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge" alt="B.Tech CSE"/>
   <img src="https://img.shields.io/badge/CUSAT-2024--2028-4338CA?style=for-the-badge" alt="CUSAT"/>
   <img src="https://img.shields.io/badge/Location-Bihar%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
@@ -15,18 +15,21 @@
   <a href="https://github.com/pranavcse-07">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/pranav-kumar-69b722333/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/pranav_codes07/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/pk73563gs">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
   <a href="mailto:pk7355949@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=pranavcse-07&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=pranavcse-07&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -41,7 +44,7 @@ I'm interested in software engineering, full-stack web development, and problem-
 - 🎓 B.Tech in Computer Science and Engineering at CUSAT
 - 💻 MERN Stack Development Intern at BeeSkilled
 - 🌐 Interested in frontend development and backend engineering
-- 🧩 Practicing DSA using Java and other programming languages
+- 🧩 Practicing Data Structures and Algorithms using Java and other programming languages
 - 🛠️ Learning through hands-on projects and practical development
 
 **Open to:** Software Engineering Internships · MERN Stack Internships · Frontend Development Opportunities
@@ -50,7 +53,7 @@ I'm interested in software engineering, full-stack web development, and problem-
 
 ## Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js" alt="C, C++, Java and JavaScript"/>
@@ -62,7 +65,7 @@ I'm interested in software engineering, full-stack web development, and problem-
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript"/>
 </p>
 
-### Backend & Databases
+### Backend and Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL"/>
@@ -110,7 +113,7 @@ I'm interested in software engineering, full-stack web development, and problem-
 | Stack | HTML, CSS, JavaScript |
 | Features | Turn management, winner detection, draw detection |
 | Interface | Responsive game board |
-| Repository | [Add project repository link](https://github.com/pranavcse-07) |
+| Repository | [View my GitHub repositories](https://github.com/pranavcse-07?tab=repositories) |
 
 </details>
 
@@ -131,7 +134,7 @@ I'm interested in software engineering, full-stack web development, and problem-
 | Stack | HTML, CSS |
 | Features | Multi-section layout, responsive styling |
 | Focus | Frontend development and UI design |
-| Repository | [Add project repository link](https://github.com/pranavcse-07) |
+| Repository | [View my GitHub repositories](https://github.com/pranavcse-07?tab=repositories) |
 
 </details>
 
@@ -152,7 +155,7 @@ I'm interested in software engineering, full-stack web development, and problem-
 | Stack | HTML, CSS |
 | Features | Student information layout, ID card styling |
 | Focus | Layout design and CSS alignment |
-| Repository | [Add project repository link](https://github.com/pranavcse-07) |
+| Repository | [View my GitHub repositories](https://github.com/pranavcse-07?tab=repositories) |
 
 </details>
 
@@ -173,7 +176,7 @@ I'm interested in software engineering, full-stack web development, and problem-
 | Stack | HTML, CSS, JavaScript |
 | Features | Animated movement, transitions |
 | Focus | CSS animations and JavaScript |
-| Repository | [Add project repository link](https://github.com/pranavcse-07) |
+| Repository | [View my GitHub repositories](https://github.com/pranavcse-07?tab=repositories) |
 
 </details>
 
@@ -186,7 +189,7 @@ I'm interested in software engineering, full-stack web development, and problem-
 **Duration:** 6 Weeks · Virtual Internship
 
 - Built RESTful APIs using Node.js and Express.js for a to-do list application and a personal portfolio platform.
-- Developed a project dashboard for managing projects, task organization, and status updates.
+- Developed a project dashboard for managing projects, organizing tasks, and updating project status.
 - Designed and integrated MongoDB schemas to support CRUD operations for tasks, portfolio content, and project records.
 - Connected frontend interfaces with backend APIs to support data updates across the MERN stack.
 
@@ -230,20 +233,20 @@ I'm interested in software engineering, full-stack web development, and problem-
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-175%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<a href="https://leetcode.com/u/pranav_codes07/">
+  <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+<a href="https://www.geeksforgeeks.org/profile/pk73563gs">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+<a href="https://github.com/pranavcse-07">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+<a href="https://www.linkedin.com/in/pranav-kumar-69b722333/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 
 </div>
@@ -254,11 +257,11 @@ I'm interested in software engineering, full-stack web development, and problem-
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavcse-07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavcse-07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavcse-07&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavcse-07&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most Used Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=pranavcse-07&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=pranavcse-07&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -278,7 +281,7 @@ I'm interested in software engineering, full-stack web development, and problem-
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavcse-07&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavcse-07&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -292,7 +295,7 @@ I'm interested in software engineering, full-stack web development, and problem-
 
 </div>
 
-> To enable the contribution snake, configure a GitHub Actions workflow to generate the SVG and publish it to the `output` branch.
+> **Setup required:** The contribution snake needs a GitHub Actions workflow to generate the SVG and publish it to the `output` branch. Until configured, this image may not appear.
 
 ---
 
@@ -308,7 +311,7 @@ learning:
 building:
   - Responsive web applications
   - Frontend projects using HTML, CSS and JavaScript
-  - Full-stack applications as I expand my MERN skills
+  - Full-stack applications while expanding my MERN skills
 
 exploring:
   - Problem-solving patterns
@@ -331,7 +334,7 @@ open_to:
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/pranav-kumar-69b722333/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -339,8 +342,12 @@ open_to:
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/pranav_codes07/">
   <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/pk73563gs">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
 </div>
@@ -351,6 +358,6 @@ open_to:
 
 *“Great software is built one thoughtful improvement at a time.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:6d28d9,100:312e81&height=100&section=footer" width="100%" alt="Purple footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:6d28d9,100:312e81&height=100&section=footer" width="100%" alt="Purple Footer Banner"/>
 
 </div>
