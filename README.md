@@ -330,7 +330,7 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:pk7355949@gmail.com">
+<a href="pk7355949@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
