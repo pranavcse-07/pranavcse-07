@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4338ca&height=180&section=header&text=Pranav%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20MERN%20Stack%20%7C%20DSA&descAlignY=58&descSize=16" width="100%" alt="Profile Header"/>
@@ -13,7 +12,7 @@
 
 <p>
   <a href="https://github.com/pranavcse-07">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me on GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/pranav-kumar-69b722333/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
